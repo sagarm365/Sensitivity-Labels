@@ -39,16 +39,16 @@ Project consists of a creating a Sensitivity Label. Use Sensitivity labels that 
 <h3>Screenshots:</h3>
 
 <p align="center">
-User-Risk: <br/>
-<img src="user risk.png" height="50%" width="50%" />
+Create a Sensitivity label: <br/>
+<img src="name it.png" height="50%" width="50%" />
 <br />
 <br />
-Result: <br/>
-<img src="1.png" height="50%" width="50%"/>
+Scope: <br/>
+<img src="scope.png" height="50%" width="50%"/>
 <br />
 <br />
-Sign-in Risk: <br/>
-<img src="sign in risk.png" height="65%" width="50%"/>
+Watermark: <br/>
+<img src="add watermark.png" height="65%" width="50%"/>
 <br />
 <br />
 Result: <br/>
