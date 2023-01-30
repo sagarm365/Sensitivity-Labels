@@ -60,7 +60,7 @@ Select Sensitivity info type: <br/>
 <br />
 <br />
 Result: <br/>
-<img src="Result.png" height="50%" width="50%"/>
+<img src="result.png" height="50%" width="50%"/>
 <br />
 <br />
 
