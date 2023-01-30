@@ -47,14 +47,23 @@ Scope: <br/>
 <img src="scope.png" height="50%" width="50%"/>
 <br />
 <br />
+Protection settings: <br/>
+<img src="protection settings.png" height="50%" width="50%"/>
+<br />
+<br />
 Watermark: <br/>
 <img src="add watermark.png" height="65%" width="50%"/>
 <br />
 <br />
+Select Sensitivity info type: <br/>
+<img src="sensitivity info types.png" height="65%" width="50%"/>
+<br />
+<br />
 Result: <br/>
-<img src="2.png" height="65%" width="50%"/>
+<img src="Result.png" height="50%" width="50%"/>
 <br />
 <br />
+
 
 
 
